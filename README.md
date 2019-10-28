@@ -1,2 +1,4 @@
 # jenkins_slave
-A sample Jenkins slave
+
+
+  "A sampile jenkins-docker-slave consists of dependecies like java, maven, git etc."
